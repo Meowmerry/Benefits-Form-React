@@ -11,9 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 In the page when you click Next button and if you want to navigate back, you can click the logo `Healthpilot` will take you back to home page or index page
 
----- DEMO -----
-![testSkill](https://user-images.githubusercontent.com/50789325/221363341-95146456-f8bd-4423-8721-946774142bb7.gif)
-
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
